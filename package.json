@@ -1,6 +1,6 @@
 {
-  "name": "goit-react-hw-09-feedback",
-  "homepage": "http://deniskodak.github.io/goit-react-hw-09-feedback",
+  "name": "react-simple-feedback-app",
+  "homepage": "http://deniskodak.github.io/react-simple-feedback-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
